@@ -159,5 +159,8 @@ Use the `claude_settings_merger.py` tool to combine multiple permission files:
 - Covering all major gh command categories
 - Including API access patterns for GET requests only
 
+## Related Work
+
+- [dwillitzer/claude-settings](https://github.com/dwillitzer/claude-settings) - Comprehensive Claude Code configuration repository with over 900 development tool permissions covering Docker, Git, cloud providers, and more. While their repository provides a broad allow-list for general development tools, our repository specifically focuses on GitHub CLI read-only operations, making it easier for users to construct targeted permission sets for GitHub workflows.
 
 Co-Authored by LLMs (Claude, GPTs).
