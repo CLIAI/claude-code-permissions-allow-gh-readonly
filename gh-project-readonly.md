@@ -1,0 +1,5 @@
+* `Bash(gh project field-list:*)`
+* `Bash(gh project item-list:*)`
+* `Bash(gh project list:*)`
+* `Bash(gh project ls:*)`
+* `Bash(gh project view:*)`

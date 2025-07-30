@@ -1,0 +1,2 @@
+* `Bash(gh org list:*)`
+* `Bash(gh org ls:*)`

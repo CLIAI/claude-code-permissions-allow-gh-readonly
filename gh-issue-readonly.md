@@ -1,0 +1,5 @@
+* `Bash(gh issue list:*)`
+* `Bash(gh issue ls:*)`
+* `Bash(gh issue status:*)`
+* `Bash(gh issue view:*)`
+* `Bash(gh issue develop --list:*)`
